@@ -1,8 +1,9 @@
 # Sample GitBook
 
 - [Chapter 1 XC](chapter1-xc/README.md)
-  * [判断推理](chapter1-xc/判断推理.md)
+  * [经验](chapter1-xc/经验.md)
   * [资料分析](chapter1-xc/资料分析.md)
+  * [判断推理](chapter1-xc/判断推理.md)
   * [言语理解和表达](chapter1-xc/言语理解和表达.md)
   * [数量关系](chapter1-xc/数量关系.md)
   * [常识](chapter1-xc/常识.md)

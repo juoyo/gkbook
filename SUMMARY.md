@@ -9,6 +9,6 @@
   * [常识](chapter1-xc/常识.md)
 - [Chapter 2 SL](chapter2-sl/README.md)
   * [基础题](chapter2-sl/基础题.md)
-  * [作文](chapter2-sl/作文.md)
+  * [议论文](chapter2-sl/议论文.md)
 - [Chapter 3 MS](chapter3-ms/README.md)
   * [面试](chapter3-ms/面试.md)

@@ -7,7 +7,7 @@
     
     "title": "公考 GitBook",
     "author": "juoyo <me@juoyo.github.io>",
-    "description": "公考手册，训练思维，交个朋友",
+    "description": "公考手册，训练思维",
     "extension": null,
     "generator": "site",
     "isbn": "null",
@@ -38,6 +38,7 @@
         "paperSize": "a4"
     },
     "plugins": [
+        "katex",
         "anchor-navigation-ex", 
         "tbfed-pagefooter",
         "copy-code-button",
